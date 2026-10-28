@@ -12,6 +12,11 @@
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		761780EF2CA45674006654EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EE2CA45674006654EF /* SceneDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		3769DD64F65A4C6E909A204D /* Gambetta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 383B52E437230CF987FCF3F1 /* Gambetta-Regular.ttf */; };
+		16AA73BAD0602B45236944E9 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8BF55A4E306A48DE9F2C119A /* Inter-Bold.ttf */; };
+		B5D33DA2165DFA3AD41287AA /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86B544B05CF85FCF5818DA20 /* Inter-Medium.ttf */; };
+		217CF82AE01B64573EB1655D /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D766ADB66EA924C9C6A251C5 /* Inter-Regular.ttf */; };
+		82265FAF9A2F4F9B50CA9B9D /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 009627A1ABE44A4D696F5746 /* Inter-SemiBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +31,11 @@
 		761780EE2CA45674006654EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SceneDelegate.swift; path = BaiTapGiuaKi/SceneDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = BaiTapGiuaKi/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		383B52E437230CF987FCF3F1 /* Gambetta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Gambetta-Regular.ttf"; path = "../assets/fonts/Gambetta-Regular.ttf"; sourceTree = SOURCE_ROOT; };
+		8BF55A4E306A48DE9F2C119A /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Inter-Bold.ttf"; path = "../assets/fonts/Inter-Bold.ttf"; sourceTree = SOURCE_ROOT; };
+		86B544B05CF85FCF5818DA20 /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Inter-Medium.ttf"; path = "../assets/fonts/Inter-Medium.ttf"; sourceTree = SOURCE_ROOT; };
+		D766ADB66EA924C9C6A251C5 /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Inter-Regular.ttf"; path = "../assets/fonts/Inter-Regular.ttf"; sourceTree = SOURCE_ROOT; };
+		009627A1ABE44A4D696F5746 /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Inter-SemiBold.ttf"; path = "../assets/fonts/Inter-SemiBold.ttf"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +56,11 @@
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				761780EC2CA45674006654EE /* AppDelegate.swift */,
 				761780EE2CA45674006654EF /* SceneDelegate.swift */,
+				383B52E437230CF987FCF3F1 /* Gambetta-Regular.ttf */,
+				8BF55A4E306A48DE9F2C119A /* Inter-Bold.ttf */,
+				86B544B05CF85FCF5818DA20 /* Inter-Medium.ttf */,
+				D766ADB66EA924C9C6A251C5 /* Inter-Regular.ttf */,
+				009627A1ABE44A4D696F5746 /* Inter-SemiBold.ttf */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
@@ -161,6 +176,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				3769DD64F65A4C6E909A204D /* Gambetta-Regular.ttf in Resources */,
+				16AA73BAD0602B45236944E9 /* Inter-Bold.ttf in Resources */,
+				B5D33DA2165DFA3AD41287AA /* Inter-Medium.ttf in Resources */,
+				217CF82AE01B64573EB1655D /* Inter-Regular.ttf in Resources */,
+				82265FAF9A2F4F9B50CA9B9D /* Inter-SemiBold.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
